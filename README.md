@@ -1,0 +1,2 @@
+# teamocdbot
+Bot for TeamOCD
